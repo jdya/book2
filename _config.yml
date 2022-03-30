@@ -1,6 +1,6 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            book2
+longtitle:        book2
 author:           HE Tao
 email:            sighingnow@gmail.com
 description: >
@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://jdya.github.io'
+baseurl:          '/book2'
 rss:              RSS
 
 toc:
